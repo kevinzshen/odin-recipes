@@ -1,0 +1,14 @@
+body {
+    font-family:"Lexend", Helvetica, sans-serif;
+}
+
+.red-background {
+    background-color: lightcoral;
+}
+
+.my-div {
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-color: lightcoral;
+    border-width: 20px;
+}
